@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/travel.png',
     tags: ['React', 'Rapid API','Google-maps API', 'material UI'],
     source: 'https://github.com/ram-kp/my-travel-companion/tree/master',
-    visit: 'https://my-travel-companion1.netlify.app',
+    visit: 'https://happy-travel1.netlify.app',
     id: 1,
     
   },

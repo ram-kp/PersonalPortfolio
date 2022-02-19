@@ -5,7 +5,6 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 8, text: 'Projects Undertaken'},
-  { number: '#1600', text: 'Candidate Master @ CodeForces'},
   { number: 15, text: 'Courses taken DSA,OS,OOC,AWS,..', },
   { number: 20, text: 'Github Repositories', },
   { number: '250+', text: 'Linked Connection', },
